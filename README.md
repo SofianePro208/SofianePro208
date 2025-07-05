@@ -13,15 +13,13 @@
 <h1 align="center">Hi 👋, I'm Sofiane KALEM</h1>
 <h3 align="center">A passionate frontend developer from Algeria 🇩🇿</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofianepro208&label=Profile%20views&color=0e75b6&style=flat" alt="sofianepro208" /> </p>
-
-- 🔭 I’m currently working on [KALEM Physics](https://kalemphysics.netlify.app/)
+- 🔭 I’m currently working on <a href="https://kalemphysics.netlify.app/" target="_blank" rel="noopener noreferrer"> 🌐 KALEM Physics Website </a>
 
 - 🌱 I’m currently learning **how to bend JavaScript to my will, dive deeper into React's component magic, and master the art of clean Git commits.**
 
 - 🤝 I’m working as a **digital tinkerer, crafting web-based tools and educational platforms that make learning smoother and smarter.**
 
-- 📫 How to reach me **kalemsofianeladjel@gmail.com**
+- 📫 How to reach me **<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalemsofianeladjel@gmail.com" target="_blank" rel="noopener noreferrer"> Email Me </a>**
 
 - ⚡ In my free time **I love turning wild ideas into code, building tiny apps nobody asked for (but secretly need), and wandering GitHub like it’s a digital forest of creativity.**
 
